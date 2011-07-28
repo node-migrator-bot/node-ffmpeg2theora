@@ -1,0 +1,16 @@
+{
+	"name": "ffmpeg2theora",
+	"version": "0.0.1",
+	"description": "Batch encoding video with ffmpeg2theora (http://v2v.cc/~j/ffmpeg2theora/)",
+	"keywords": ["ffmpeg","ffmpeg2theora"],
+	"author": "Tim <flybyme@wiyc.info>",
+	"bugs": {
+		"mail": "bug@wiyc.info",
+		"web": "https://github.com/FLYBYME/node-ffmpeg2theora"
+	},
+	"repository": "git://github.com/FLYBYME/node-ffmpeg2theora.git",
+	"engines": {
+		"node": ">=0.4.0"
+	},
+	"main": "./lib/ffmpeg2theora"
+}
