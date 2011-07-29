@@ -1,6 +1,6 @@
 {
 	"name": "ffmpeg2theora",
-	"version": "0.0.1",
+	"version": "0.0.3a",
 	"description": "Batch encoding video with ffmpeg2theora (http://v2v.cc/~j/ffmpeg2theora/)",
 	"keywords": ["ffmpeg","ffmpeg2theora"],
 	"author": "Tim <flybyme@wiyc.info>",
